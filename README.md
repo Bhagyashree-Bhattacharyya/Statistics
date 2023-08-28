@@ -1,2 +1,2 @@
 # Statistics
-Just practicing with numpy, matplotlib etc.
+Just practicing with numpy, matplotlib etc. as a beginner 😅
